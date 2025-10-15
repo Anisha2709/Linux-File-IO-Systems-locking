@@ -143,11 +143,14 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 ## 1.To Write a C program that illustrates files copying 
+<img width="814" height="688" alt="image" src="https://github.com/user-attachments/assets/e39b2740-9d81-40a6-a333-bae384b9c224" />
 
 
 
 ## 2.To Write a C program that illustrates files locking
 
+<img width="898" height="598" alt="image" src="https://github.com/user-attachments/assets/6ca23f33-5d86-4ef0-81a4-d901452d5e1a" />
+<img width="899" height="704" alt="image" src="https://github.com/user-attachments/assets/b0f1a92a-6b8c-488a-8f83-b1b3de4a0181" />
 
 
 # RESULT:
